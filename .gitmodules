@@ -1,0 +1,3 @@
+[submodule "libs/macs"]
+	path = libs/macs
+	url = https://github.com/AstroSoft-MIR/macs-rtos.git
